@@ -1,2 +1,2 @@
 # hello-world
-this is my first repository on git hub
+this is my first repository on git hello my name is rishabh
